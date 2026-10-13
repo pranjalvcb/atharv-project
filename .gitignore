@@ -1,0 +1,4 @@
+node_modules/
+server/carecompanion.db
+.env
+.DS_Store

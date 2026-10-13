@@ -1,0 +1,21 @@
+# Feature Checklist
+
+- [x] Responsive landing page
+- [x] Customer registration/login
+- [x] JWT authentication
+- [x] Password hashing
+- [x] Companion directory
+- [x] Companion rating/experience/rate
+- [x] Booking creation
+- [x] Estimated price calculation
+- [x] Booking status lifecycle
+- [x] Family update timeline
+- [x] Role-based access
+- [x] SQLite persistence
+- [x] Demo accounts
+- [x] Viva explanation
+- [x] Testing scenarios
+- [ ] Real payment gateway (future)
+- [ ] KYC/background verification (future)
+- [ ] SMS/WhatsApp notifications (future)
+- [ ] Production deployment hardening (future)
